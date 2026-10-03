@@ -20,6 +20,9 @@ JAWAB
 
 
 ![Gambar 1](WhatsApp%20Image%202026-10-03%20at%2016.34.45.jpeg)
+
+
+
 2.
 
 
