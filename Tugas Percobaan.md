@@ -1,16 +1,28 @@
 Nama: Raden Muhamad Alfin ALfaresi
+
 NIM: 09011382530183
+
 Kelas:SKU3A
+
 Matkul:Sistem Operasi
 
+
 Tugas 2
+
 SOAL
+
 1.Tugas Percobaan 1 Informasi finger
+
 ubahlah informasi finger pada komputer anda
+
 2.Tugas Percobaan 2 Log User Aktif
+
 lihatlah user-user yang sedang aktif pada komputer anda
+
 3.Tugas Percobaan 3 Group
+
 buka file $cat/etc/group kemudian analisa untuk root:x:0
+
 
 JAWAB
 
