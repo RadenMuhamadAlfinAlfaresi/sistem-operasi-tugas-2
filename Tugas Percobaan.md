@@ -13,6 +13,8 @@ lihatlah user-user yang sedang aktif pada komputer anda
 buka file $cat/etc/group kemudian analisa untuk root:x:0
 
 JAWAB
+
+
 1.
 
 
