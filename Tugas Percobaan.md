@@ -19,6 +19,14 @@ JAWAB
 
 ![Gambar 1](WhatsApp%20Image%202026-10-03%20at%2016.34.45.jpeg)
 2.
+
+
+
+
 ![Gambar 2](WhatsApp%20Image%202026-10-03%20at%2016.34.46.jpeg)
 3.Berdasarkan File /etc/group, root:x:0 Menunjukkan Bahwa root Merupakan Nama Grup,X Menunjukkan Password Grup,0 Merupakan Group ID (GID), Dan Kolom Member Kosong Karena Tidak Terdapat User Tambahan Yang Tercantum Pada Grup Tersebut
+
+
+
+
 ![Gambar 3](WhatsApp%20Image%202026-10-03%20at%2016.34.47.jpeg)
